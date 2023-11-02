@@ -1,6 +1,6 @@
 # FIFAQatar2022-StatsbombFreeEventData
 Statsbomb released their free event data from the 'FIFA Qatar World Cup 2022' back in December 2022, and I took this opportunity to apply some of the data analysis skills that i have got to create a report highlighting the top ball progressors in this edition of the world cup, I created this repository to show the techniques used to filter and analyse the event data and visualize the results that were produced.
-Check the PDF file of the report here: https://github.com/GoonerMH99/FIFAQatar2022-StatsbombFreeEventData/blob/main/FIFA%20Qatar%20World%20Cup%202022%20Top%20Ball%20Progressors%20Report.pdf
+<br />Check the PDF file of the report here: https://github.com/GoonerMH99/FIFAQatar2022-StatsbombFreeEventData/blob/main/FIFA%20Qatar%20World%20Cup%202022%20Top%20Ball%20Progressors%20Report.pdf
 
 ## Table Of Content
 * Technologies
